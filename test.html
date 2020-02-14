@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Welcome to les Noes Blanches</title>
+        <meta name="description" content="Chic and relaxed Chateau and Wedding venue in the Pays de la Loire region of France">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+				<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href="css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" href="css/colorbox.css">
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,700,300,600,400italic&subset=latin' rel='stylesheet' type='text/css'>
+		
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+		
+		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script>
+			var language = window.navigator.userLanguage || window.navigator.language;
+			// alert(language); //works for IE,CHROME,FF,SAFARI.
+			
+			$(document).ready(function() {
+				setTimeout(function() { 
+					var height = $(window).scrollTop();
+
+					if(height  == 0) {
+					    $('html, body').animate({
+					        scrollTop: $("#about").offset().top
+					    }, 2000);
+					}
+					
+				},5000)
+			    
+			});
+			
+		</script>
+    
+				<!-- Facebook Pixel Code -->
+				<script>
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+				n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+				document,'script','https://connect.facebook.net/en_US/fbevents.js');
+				fbq('init', '1026889567350955'); // Insert your pixel ID here.
+				fbq('track', 'PageView');
+				</script>
+				<noscript><img height="1" width="1" style="display:none"
+				src="https://www.facebook.com/tr?id=1026889567350955&ev=PageView&noscript=1"
+				/></noscript>
+				<!-- DO NOT MODIFY -->
+				<!-- End Facebook Pixel Code -->
+				
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+		<div class="navbar navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</a>
+					<a class="brand goTop" href="#"><img src="images/nblogo_header_inverse.png" style="height:30px;"></a>
+					<div class="nav-collapse pull-right">
+						<ul class="nav">
+							<li data-section="1"><a href="#">Welcome</a></li>
+							<li data-section="2"><a href="#the_house">The House</a></li>
+							<li data-section="3"><a href="#the_grounds">The Grounds</a></li>
+							<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Weddings  <b class="caret"></b></a>
+								<ul class="dropdown-menu" role="menu">
+									<!-- <li><a href="french_chateau_wedding.html">Château Weddings</a></li> -->
+									<li><a href="services.html">Help & Extras</a></li>
+									<li><a href="price.html">Suppliers & Accomodation</a></li>
+								</ul>
+							</li>
+							<!-- <li data-section="4"><a href="/events.html">Events</a></li> -->
+							<li data-section="7"><a href="#contacts">Contact</a></li>
+						</ul>
+					</div>	
+				</div>	
+			</div>
+		</div>
+		
+		
+		
+		<div id="welcome" class="parallax" style="background-image: url(images/nb1.jpg);">
+			<div id="logotext" class="text">
+				<img src="images/nblogo_inverse.png" style="height:100px;">
+				<h1>les Noës Blanches</h1>
+				<p class="small-title">chic & relaxed chateau venue<br>loire region ~ france</p>
+			</div>
+			<div id="emailalert" class="span3" style="z-index:9999;display:none;">
+				<br><br><br><br><br>
+				<div class="alert alert-block fade in">
+					<button class="close" data-dismiss="alert" type="button">×</button>
+					<h4 class="alert-heading">You e-mail has been sent</h4>
+					<p>We'll get onto your query right away and will get back to you as soon as we have the information you require.</p>
+					<br>
+					<button class="btn btn-info" data-dismiss="alert" type="button">Thanks, Close this message</button>
+
+				</div>
+			</div>
+		</div>
+		
+		<script>
+		var pathname = window.location.search;
+		if (pathname == "?email=1") {
+			alert("show box")
+			document.getElementById('emailalert').style.display = 'block';
+		}
+		</script>
+
+		<section id="about" class="text-block" data-section="1">
+			<div class="features dark-bg">
+				<div class="container">
+					<div class="row-fluid">
+						<article class="span3 text-center">
+							<img src="images/nbhouse1_s.jpg" alt="" class="img-circle"/>
+							<!-- <h3 class="color text-center with-border">Weddings</h3> -->
+							<!-- <p>Eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam. </p> -->
+						</article>
+						<article class="span3 text-center">
+							<img src="images/nbhouse2_s.jpg" alt="" class="img-circle"/>
+							<!-- <h3 class="color text-center with-border">Stay the Week</h3> -->
+							<!-- <p>Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p> -->
+						</article>
+						<article class="span3 text-center">
+							<img src="images/nbhouse6_s.jpg" alt="" class="img-circle"/>
+							<!-- <h3 class="color text-center with-border">Events & Le Mans Races</h3> -->
+							<!-- <p>Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p> -->
+						</article>
+						<article class="span3 text-center">
+							<img src="images/nbwedding_test.jpg" alt="" class="img-circle"/>
+							<!-- <h3 class="color text-center with-border">Stay the Week</h3> -->
+							<!-- <p>Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p> -->
+						</article>
+					</div>
+				</div>	
+			</div>	
+			<div class="light-bg">
+				<div class="container">
+					<br>
+					<h4 class="small-title offset1">WELCOME TO LES NOËS BLANCHES</h4>
+					<h2 class="big-title  offset1" style="margin-top:20px;">Chic & Relaxed in the Pays de la Loire</h2>
+					<div class="section clearfix span9 offset1">
+						<p>Welcome to les Noës Blanches, our classic country chateau near le Mans in the Pays de la Loire region of France. Nestled in 450 acres of gardens and private estate, the house is fully equipped for entertaining and provides an elegant and distinguished backdrop for events, weddings or simply a few days amongst friends and family.</p>
+						<!-- <h4 class="small-title">around 4 hours from London door-to-door</h4> -->
+						<p>The house is a 20 minute drive from the centre of le Mans which is, in turn, about 4 hours by Eurostar from London St. Pancras. Le Mans is also on the TGV train network and under an hour from Paris - making day trips a breeze.</p>
+					</div>
+					<br><br>					
+					<!-- <div class="text-center span12">
+						<a class="btn btn-large toSection" href="#" data-section="7">Contact us</a>
+						<a href="#" data-section="2" class="toSection"><i class="icon-double-angle-down"></i></a>
+						
+					</div> -->
+					
+				</div>	
+			</div>	
+		</section>	
+		
+		<div id="services-bg" class="parallax" style="background-image: url(images/nb_parquet.jpg);">
+			<div class="black-bg">
+				<div class="text">
+					<blockquote>
+						<h2>Elegant and Easy-going</h2>
+						" We just want for it to be elegant and comfortable, relaxed but well planned-out "
+						<small class="color">les Noës Blanches</small>
+					</blockquote>
+				</div>	
+				<a href="#" data-section="2" class="toSection"><i class="icon-double-angle-down"></i></a>
+			</div>	
+		</div>
+		
+		<section id="the_house" class="text-block" data-section="2">
+			<div class="light-bg">
+				<div class="container text-center">
+					<br><br><br><br>
+					<h4 class="small-title">Please take a look around</h4>
+					<h2 class="big-title" style="margin-top:20px;">Quick tour of the house</h2>
+					<p>The house first appears on archive documents around 1540, during the reign of king Francis I, but the original building is in all likelihood much older. Like any venerable old house, with each generation it has undergone modification and refurbishment to bring it up to date for the time, and this generation has been no exception.</p>
+					<p>more here...</p>
+					
+										
+					<ul class="thumbnails">
+						<li class="span6 big-preview">
+							<div class="thumbnail">
+								<div class="img-wrap">
+									<a href="images/nb_h1.jpg" class="colorbox">
+										<div class="black-bg">
+											<i class="icon-zoom-in"></i>
+										</div>	
+										<img src="images/nb_h1.jpg" alt="" rel="gal"/>
+									</a>
+								</div>	
+								<h3 class="with-border"><a href="">The kitchen</a></h3>
+								<p>The natural hub of the house in the morning, the kitchen is wholly equipped to cater for a full house of 15 guests. On colder days, we'll get a fire going in the open fireplace - there's a good reserve of logs kept for this reason.</p>
+							</div>
+						</li>
+						<div class="near-big">
+							<div class="thumbnail-block clearfix">	
+								<li class="span3">
+									<div class="thumbnail">
+										<div class="img-wrap">
+											<a href="images/nb_h2.jpg" class="colorbox">
+												<div class="black-bg">
+													<i class="icon-zoom-in"></i>
+												</div>	
+												<img src="images/nb_h2s.jpg" alt="" rel="gal"/>
+											</a>
+										</div>
+										<h3 class="with-border"><a href="works-single.html">Main living room</a></h3>
+										<p>High ceilings and views across the estate, on summers afternoons we'll open open the windows and let the breeze run in from across the fields.</p>
+									</div>
+								</li>
+								<li class="span3">
+									<div class="thumbnail">
+										<div class="img-wrap">
+											<a href="images/nb_h3.jpg" class="colorbox">
+												<div class="black-bg">
+													<i class="icon-zoom-in"></i>
+												</div>	
+												<img src="images/nb_h3s.jpg" alt="" rel="gal"/>
+											</a>
+										</div>
+										<h3 class="with-border"><a href="works-single.html">Wood-panelled dining room</a></h3>
+										<p>Warm and intimate, this is where many a dinner has wound up going on into the early hours.</p>
+									</div>
+								</li>
+							</div>	
+							<div class="thumbnail-block clearfix">
+								<li class="span3">
+									<div class="thumbnail">
+										<div class="img-wrap">
+											<a href="images/nb_h4.jpg" class="colorbox">
+												<div class="black-bg">
+													<i class="icon-zoom-in"></i>
+												</div>	
+												<img src="images/nb_h4s.jpg" alt="" rel="gal"/>
+											</a>
+										</div>
+										<h3 class="with-border"><a href="works-single.html">White room</a></h3>
+										<p>Light and breezy, this room has it's own marble fireplace and extravagant bathroom overlooking the lake.</p>
+									</div>
+								</li>
+								<li class="span3" >
+									<div class="thumbnail">
+										<div class="img-wrap">
+											<a href="images/nb_h5.jpg" class="colorbox">
+												<div class="black-bg">
+													<i class="icon-zoom-in"></i>
+												</div>	
+												<img src="images/nb_h5s.jpg" alt="" rel="gal"/>
+											</a>
+										</div>
+										<h3 class="with-border"><a href="works-single.html">White bathroom</a></h3>
+										<p>A long soak with a large glass of chilled sincere at your side whilst overlooking the lake and grounds and listening to the birds sing.</p>
+									</div>
+								</li>
+							</div>
+						</div>	
+						<div class="row">
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_h6.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_h6s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="works-single.html">Second Living Room / TV room</a></h3>
+									<p>A second living room to get away from the others, or an opportunity to put on a film and kick back.</p>
+								</div>
+							</li>
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_h7.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_h7s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="works-single.html">Moroccain room</a></h3>
+									<p>Tapered ceilings and light from all sides, this room has views across the gardens and out to the forest.</p>
+								</div>
+							</li>
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_h8.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_h8s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="works-single.html">Racing room</a></h3>
+									<p>Motorsport is part of the local heritage, and this room is bedecked with vintage posters and programmes of the races of the past.</p>
+								</div>
+							</li>
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_h9.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_h9s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="works-single.html">Corsair room</a></h3>
+									<p>Up in the tower, you can almost smell the ocean breeze from up here.</p>
+								</div>
+							</li>
+						</div>
+					</ul>				
+				</div>	
+			</div>	
+		</section>
+		
+		<div id="works-bg" class="parallax" style="background-image: url(images/nb_flower.jpg);height: 400px;min-height: 400px;">
+			<div class="black-bg">
+				<div class="text">
+					<h2>
+						<i class="icon-star hide"></i><i class="icon-star hide"></i><i class="icon-star"></i>
+						Grounds & Gardens
+						<i class="icon-star hide"></i><i class="icon-star hide"></i><i class="icon-star"></i>
+					</h2>
+				</div>	
+				<a href="#" data-section="3" class="toSection" style="margin-top:100px;"><i class="icon-double-angle-down"></i></a>
+			</div>	
+		</div>
+		<section id="the_grounds" class="text-block" data-section="3">
+			
+			<div class="light-bg">
+				<div class="container text-center">
+					<br><br><br><br>
+					<h4 class="small-title">Please take a look around</h4>
+					<h2 class="big-title" style="margin-top:20px;">The grounds and gardens</h2>
+					<p>The grounds and gardens extend out 450 acres in all directions around the house. From the fountain in the courtyard, to the lawns and gardens, and on further to the oak and pine forests beyond.</p>
+					<p>more here...</p>
+					<ul class="thumbnails">
+						<li class="span6 big-preview">
+							<div class="thumbnail">
+								<div class="img-wrap">
+									<a href="images/nb_g1.jpg" class="colorbox">
+										<div class="black-bg">
+											<i class="icon-zoom-in"></i>
+										</div>	
+										<img src="images/nb_g1.jpg" alt="" rel="gal"/>
+									</a>
+								</div>	
+								<h3 class="with-border">The courtyard</h3>
+								<p>The belly-button of the estate, on a warm summer's day everyone somehow seems to gravitate to the old fountain.</p>
+							</div>
+						</li>
+						<div class="near-big">
+							<div class="thumbnail-block clearfix">	
+								<li class="span3">
+									<div class="thumbnail">
+										<div class="img-wrap">
+											<a href="images/nb_g2.jpg" class="colorbox">
+												<div class="black-bg">
+													<i class="icon-zoom-in"></i>
+												</div>	
+												<img src="images/nb_g2s.jpg" alt="" rel="gal"/>
+											</a>
+										</div>
+										<h3 class="with-border"><a href="#">Pagoda Marquee <i class="icon-external-link"></i></a></h3>
+										<p>In the classic lines of the stylish marquees of yesteryear, the pagoda is set up for the summer season from May till late September. With views across the park and the house it makes for a very romantic setting indeed.</p>
+									</div>
+								</li>
+								<li class="span3">
+									<div class="thumbnail">
+										<div class="img-wrap">
+											<a href="images/nb_g3.jpg" class="colorbox">
+												<div class="black-bg">
+													<i class="icon-zoom-in"></i>
+												</div>	
+												<img src="images/nb_g3s.jpg" alt="" rel="gal"/>
+											</a>
+										</div>
+										<h3 class="with-border"><a href="#">Boating lake <i class="icon-external-link"></i></a></h3>
+										<p>Take a stroll around the lake to marvel at the dragonflies and pick wild flowers.</p>
+									</div>
+								</li>
+							</div>	
+							<div class="thumbnail-block clearfix">
+								<li class="span3">
+									<div class="thumbnail">
+										<div class="img-wrap">
+											<a href="images/nb_g4.jpg" class="colorbox">
+												<div class="black-bg">
+													<i class="icon-zoom-in"></i>
+												</div>	
+												<img src="images/nb_g4s.jpg" alt="" rel="gal"/>
+											</a>
+										</div>
+										<h3 class="with-border"><a href="#">White room <i class="icon-external-link"></i></a></h3>
+										<p>Cras metus elit, consectetur sed congue vel, sollicitudin eget odio. Consectetur sed congue vel odio. </p>
+									</div>
+								</li>
+								<li class="span3" >
+									<div class="thumbnail">
+										<div class="img-wrap">
+											<a href="images/nb_g5.jpg" class="colorbox">
+												<div class="black-bg">
+													<i class="icon-zoom-in"></i>
+												</div>	
+												<img src="images/nb_g5s.jpg" alt="" rel="gal"/>
+											</a>
+										</div>
+										<h3 class="with-border">Work place</h3>
+										<p>Cras metus elit, consectetur sed congue vel, sollicitudin eget odio. Cras lacinia laoreet libero et mattis.</p>
+									</div>
+								</li>
+							</div>
+						</div>	
+						<div class="row">
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_g6.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_g6s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="#">Summer day <i class="icon-external-link"></i></a></h3>
+									<p>Cras metus elit, consectetur sed congue vel, sollicitudin eget odio. Cras lacinia laoreet libero et mattis.</p>
+								</div>
+							</li>
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_fountain.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_fountains.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="#">Work place <i class="icon-external-link"></i></a></h3>
+									<p>Cras metus elit, consectetur sed congue vel, sollicitudin eget odio. Cras lacinia laoreet libero et mattis.</p>
+								</div>
+							</li>
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_g8.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_g8s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="#">Good morning <i class="icon-external-link"></i></a></h3>
+									<p>Cras metus elit, consectetur sed congue vel, sollicitudin eget odio. Cras lacinia laoreet libero et mattis. Ut vel eleifend nisi. </p>
+								</div>
+							</li>
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_g9.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_g9s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="#">Work place <i class="icon-external-link"></i></a></h3>
+									<p>Cras metus elit, consectetur sed congue vel, sollicitudin eget odio. Cras lacinia laoreet libero et mattis.</p>
+								</div>
+							</li>
+						</div>
+						<div class="row">
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_g6.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_g6s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="#">Summer day <i class="icon-external-link"></i></a></h3>
+									<p>Cras metus elit, consectetur sed congue vel, sollicitudin eget odio. Cras lacinia laoreet libero et mattis.</p>
+								</div>
+							</li>
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_g7.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_g7s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="#">Work place <i class="icon-external-link"></i></a></h3>
+									<p>Cras metus elit, consectetur sed congue vel, sollicitudin eget odio. Cras lacinia laoreet libero et mattis.</p>
+								</div>
+							</li>
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_g8.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_g8s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="#">Good morning <i class="icon-external-link"></i></a></h3>
+									<p>Cras metus elit, consectetur sed congue vel, sollicitudin eget odio. Cras lacinia laoreet libero et mattis. Ut vel eleifend nisi. </p>
+								</div>
+							</li>
+							<li class="span3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="images/nb_g9.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="images/nb_g9s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border"><a href="#">Work place <i class="icon-external-link"></i></a></h3>
+									<p>Cras metus elit, consectetur sed congue vel, sollicitudin eget odio. Cras lacinia laoreet libero et mattis.</p>
+								</div>
+							</li>
+						</div>
+						
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		
+		
+		
+		
+		
+		
+		<section id="contacts" class="text-block" data-section="7">
+			<div class="dark-bg">
+				<div class="container">
+					<h2><i class="icon-map-marker"></i> Are you planning an event?</h2>
+					<p>To make every event a success, we like to get as much of the preparation done in advance - leaving you to concentrate on the finishing touches that make your event completely unique.</p>
+					<div class="row-fluid section">
+						<div class="span8">
+							<h3 class="with-border">How can we help?</h3>
+							<form id="emailform" class="form clearfix" action="/contact" method="post">
+								<input type="text" class="span12" placeholder="Name" name="contact[name]" id="name">
+								<input type="email" class="span12" placeholder="Email" name="contact[email]" id="email">
+								<textarea class="span12" placeholder="Message" name="contact[message]" id="message" rows="6"></textarea>
+								<button class="btn btn-large pull-right" type="submit">Submit</button>
+							</form>
+						</div>
+						<div class="span4">
+							<h3 class="with-border">Our information</h3>
+							<div class="info-block">
+								<article class="clearfix">
+									<i class="icon-globe"></i>
+									<address>
+										les Noës Blanches, Route de Malicorne<br/>
+										Saint Jean du Bois, Pays de la Loire<br/>
+										72430, France<br/>
+									</address>
+								</article>
+								<article class="clearfix">
+									<i class="icon-phone"></i>
+									<p>+33 (0) 2 43 94 36 70</p>
+								</article>
+								<article class="clearfix">	
+									<i class="icon-envelope"></i>
+									<p><a onclick="mixpanel.track('Email click');" href="mailto:bonjour@noesblanches.com">bonjour@noesblanches.com</a></p>
+								</article>	
+							</div>	
+							<div class="social">
+								<ul class="unstyled clearfix">
+									<li><a href="http://www.pinterest.com/noesblanches/" title="" target="_blank">
+										<i class="icon-pinterest"></i></a>
+									</li>
+									<li><a href="https://www.facebook.com/pages/Les-No%C3%ABs-Blanches/411823692169562" title="" target="_blank">
+										<i class="icon-facebook"></i></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>	
+			</div>	
+		</section>
+		
+		<!-- <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;ll=47.8550247,-0.0269093&amp;spn=@47.8550247,-0.0269093&amp;t=m&amp;z=11&amp;output=embed"></iframe> -->
+		
+		
+		<footer>
+			<div class="light-bg">
+				<div class="container">
+					<div class="row-fluid">
+						<div class="span6">
+							<h4>Get in touch</h4>
+							<div class="info-block">
+								<article class="clearfix">
+									<i class="icon-globe"></i>
+									<address>
+										les Noës Blanches, Route de Malicorne<br/>
+										Saint Jean du Bois, Pays de la Loire<br/>
+										72430, France<br/>
+									</address>
+									<a class="btn btn-large" type="submit" href="https://www.google.com/maps/place/Les+No%C3%ABs+Blanches/@48.5069784,0.7356105,8z/data=!4m2!3m1!1s0x4808273a3526e8a1:0x753dbc92c40bf289" target="_new">See where we are on Google Maps</a>
+								</article>
+								<article class="clearfix">
+									<i class="icon-phone"></i>
+									<p>+33 (0) 2 43 94 36 70</p>
+								</article>
+								<article class="clearfix">	
+									<i class="icon-envelope"></i>
+									<p><a onclick="mixpanel.track('Email click');" href="mailto:bonjour@noesblanches.com">bonjour@noesblanches.com</a></p>
+								</article>	
+							</div>	
+						</div>
+						<div class="span6">
+							<h4>Follow us</h4>
+							<div class="social">
+								<ul class="unstyled clearfix">
+									<li>
+										<a target="_blank" title="" href="http://www.pinterest.com/noesblanches/">
+											<i class="icon-pinterest"></i>
+										</a>
+									</li>
+									<li>
+										<a target="_blank" title="" href="https://www.facebook.com/pages/Les-No%C3%ABs-Blanches/411823692169562">
+											<i class="icon-facebook"></i>
+										</a>
+									</li>
+								</ul>
+							</div>	
+						</div>
+						<!-- <div class="span3">
+													<h4>Recent posts</h4>
+													<ul>
+														<li><a href="#">Lorem ipsum dolor sit amet</a></li>
+														<li><a href="#">Cum maiestatis necessitatibus ad</a></li>
+														<li><a href="#">Dicat tantas copiosae eam id</a></li>
+														<li><a href="#">Theophrastus, dicat tantas</a></li>
+														<li><a href="#">Cras metus elit, consectetur sed</a></li>
+														<li><a href="#">Lorem ipsum dolor sit amet</a></li>
+													</ul>
+												</div>
+												<div class="span3">
+													<h4>Photostream</h4>
+													<ul class="footer-thumbnails unstyled clearfix">
+														<li class="stream">
+															<a href="#">
+																<img src="http://dummyimage.com/45x45/243135/fff" alt="">
+															</a>
+														</li>
+														<li class="stream">
+															<a href="#">
+																<img src="http://dummyimage.com/45x45/243135/fff" alt="">
+															</a>
+														</li>
+														<li class="stream">
+															<a href="#">
+																<img src="http://dummyimage.com/45x45/243135/fff" alt="">
+															</a>
+														</li>
+														<li class="stream">
+															<a href="#">
+																<img src="http://dummyimage.com/45x45/243135/fff" alt="">
+															</a>
+														</li>
+														<li class="stream">
+															<a href="#">
+																<img src="http://dummyimage.com/45x45/243135/fff" alt="">
+															</a>
+														</li>
+														<li class="stream">
+															<a href="#">
+																<img src="http://dummyimage.com/45x45/243135/fff" alt="">
+															</a>
+														</li>
+														<li class="stream">
+															<a href="#">
+																<img src="http://dummyimage.com/45x45/243135/fff" alt="">
+															</a>
+														</li>
+														<li class="stream">
+															<a href="#">
+																<img src="http://dummyimage.com/45x45/243135/fff" alt="">
+															</a>
+														</li>
+													</ul> 
+												</div> -->
+					</div>
+				</div>	
+			</div>	
+			<div class="copyright-block dark-bg clearfix">
+				<div class="container">
+					<div class="pull-left">
+						<p class="pull-left">Copyright &copy; 2017 le Noës Blanches. All Rights Reserved</p>
+					</div>		
+				</div>
+			</div>
+			
+		</footer>
+		
+		<a class="goTop goTop-link"><i class="icon-angle-up"></i></a>
+		
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/waypoints.js"></script>
+        <script src="js/plugins.js"></script>
+		<script src="js/placeholder.js"></script>
+		<script src="js/jquery.colorbox-min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>

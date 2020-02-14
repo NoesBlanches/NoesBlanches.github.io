@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>French Château Gardens - Château les Noës Blanches</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href="/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" href="/css/colorbox.css">
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,700,300,600,400italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+		<link rel="stylesheet" href="/css/main2.css">
+		<link rel="stylesheet" href="/css/font-awesome.min.css">
+		
+		<!--Css for filter. If you don't need the image filter don't include this file to the project-->
+		<link rel="stylesheet" href="/css/filter.css">
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+        <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+    
+				<!-- Facebook Pixel Code -->
+				<script>
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+				n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+				document,'script','https://connect.facebook.net/en_US/fbevents.js');
+				fbq('init', '1026889567350955'); // Insert your pixel ID here.
+				fbq('track', 'PageView');
+				</script>
+				<noscript><img height="1" width="1" style="display:none"
+				src="https://www.facebook.com/tr?id=1026889567350955&ev=PageView&noscript=1"
+				/></noscript>
+				<!-- DO NOT MODIFY -->
+				<!-- End Facebook Pixel Code -->
+				
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+		
+				<div class="navbar navbar-fixed-top">
+					<div class="navbar-inner">
+						<div class="container">
+							 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</a>
+							<a class="brand" href="/en"><img src ="/images/nblogo_header_inverse.png" style="height:30px;"></a>
+							<div class="nav-collapse pull-right">
+								<ul class="nav">
+									<li><a href="/en">Welcome</a></li>
+									<li><a href="/en#the_house">The Chateau</a></li>
+									<li class="active"><a href="/en/gardens">The Gardens</a></li>
+									<!-- <li class=""><a href="/en/french_chateau_wedding">Chateau Weddings</a></li> -->
+									<!-- <li data-section="4"><a href="/events">Events</a></li> -->
+									<li data-section="7"><a href="#contacts">Contact</a></li>
+									<li class=""><a href="/jardins"><u>En</u> / Fr</a></li>
+								</ul>
+							</div>	
+						</div>	
+					</div>
+				</div>
+		
+		
+				
+		<div class="parallax" style="background-image: url(/images/garden1_pan.jpg);">
+			<div class="text">
+				<h1>Château Grounds & Gardens</h1>
+				<p>Château les Noës Blanches</p>
+			</div>
+		</div>
+		
+		<section id="the_grounds" class="text-block" data-section="3">	
+			<div class="light-bg">
+				<div class="container text-center">
+					<br><br>
+					<h4 class="small-title">Please take a look around</h4>
+					<p>The grounds and gardens extend out 450 acres in all directions around the house. From the fountain in the courtyard, to the lawns and gardens, past the boating lake and on further to the oak and pine forests beyond.</p>
+					<div class="container2" >
+					  <div class="masonry">
+					    <div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g10.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g10s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>	
+									<h3 class="with-border">The courtyard</h3>
+									<p>The heart of the estate, on a warm summer's day you always want to stop by the fountain for a while.</p>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/pool1.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/pool1_s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border">Provençal garden and pool</h3>
+									<p>Take a dip in the sparkly heated swimming Pool in the provençal garden when the summer days get warm.</p>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g9.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g9s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border">Pagoda Marquee</h3>
+									<p>The classic lines of the marquees of yesteryear, our pagoda is set up for the summer season from May till late September. With views across the park and the house it makes for a very romantic setting indeed.</p>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g13.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g13s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g2.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g2s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g3.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g3s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border">Walk in the woods</h3>
+									<p>The estate stretches out almost 500 acres in all directions. Maybe take a stroll and spot some wildlife?</p>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g4.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g4s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g5.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g5s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border">Wood reserves</h3>
+									<p>We keep a healthy store of seasoned wood for the fireplace - very useful if the weather turns cooler.</p>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/garden2.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/garden2s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g7.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g7s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g8.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g8s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g1.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g1s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/pond1.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/pond1s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border">Boating lake</h3>
+									<p>The house gives views over the boating lake ~ especially pretty at sunset. Take a stroll around the lake to marvel at the dragonflies and pick wild flowers.</p>
+								</div>
+							</div>
+
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/garden1.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/garden1s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+								</div>
+							</div>
+							
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/pond2.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/pond2s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+								</div>
+							</div>
+							
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g12.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g12s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="post-box col-lg-3 col-md-3 col-sm-3">
+								<div class="thumbnail">
+									<div class="img-wrap">
+										<a href="/images/nb_g14.jpg" class="colorbox">
+											<div class="black-bg">
+												<i class="icon-zoom-in"></i>
+											</div>	
+											<img src="/images/nb_g14s.jpg" alt="" rel="gal"/>
+										</a>
+									</div>
+									<h3 class="with-border">The Fountain</h3>
+									<p>Gently splashes away during the day, cooling the breeze on the warmer days.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</section>
+		
+		
+		<section id="contacts" class="text-block" data-section="7">
+			<div class="dark-bg">
+	
+			</div>	
+		</section>
+		
+		
+		<footer>
+			<div class="light-bg">
+				<div class="container">
+					<div class="row-fluid">
+						<div class="span6">
+							<h4><i class="icon-map-marker"></i> Are you organising an event?</h4>
+							<p>To make every event a success, we like to get as much of the preparation done in advance - leaving you to concentrate on the finishing touches that make your event completely unique.</p>
+							<a class="btn btn-large" onclick="mixpanel.track('Email click');" href="mailto:bonjour@noesblanches.com?subject=Noes%20Blanches%20Information%20Request">Contact us</a>
+							<div class="info-block">
+								<article class="clearfix">
+									<i class="icon-globe"></i>
+									<address>
+										les Noës Blanches, Route de Malicorne<br/>
+										Saint Jean du Bois, Pays de la Loire<br/>
+										72430, France<br/>
+									</address>
+									<i class="icon-search"></i>
+									<p><a  href="https://www.google.com/maps/place/Les+No%C3%ABs+Blanches/@48.5069784,0.7356105,8z/data=!4m2!3m1!1s0x4808273a3526e8a1:0x753dbc92c40bf289" target="_new">See google map</a></p>
+								</article>
+
+								<article class="clearfix">
+									<i class="icon-phone"></i>
+									<p>+33 (0) 2 43 94 36 70</p>
+								</article>
+								<article class="clearfix">	
+									<i class="icon-envelope"></i>
+									<p><a onclick="mixpanel.track('Email click');" href="mailto:bonjour@noesblanches.com?subject=Noes%20Blanches%20Information%20Request">bonjour@noesblanches.com</a></p>
+								</article>	
+							</div>	
+						</div>
+						<div class="span6">
+							<h4>Follow us</h4>
+							<div class="social">
+								<ul class="unstyled clearfix">
+									<li>
+										<a target="_blank" title="" href="http://www.pinterest.com/noesblanches/">
+											<i class="icon-pinterest"></i>
+										</a>
+									</li>
+									<li>
+										<a target="_blank" title="" href="https://www.facebook.com/pages/Les-No%C3%ABs-Blanches/411823692169562">
+											<i class="icon-facebook"></i>
+										</a>
+									</li>
+								</ul>
+							</div>	
+						</div>
+						
+					</div>
+				</div>	
+			</div>	
+			<div class="copyright-block dark-bg clearfix">
+				<div class="container">
+					<div class="pull-left">
+						<p class="pull-left">Copyright &copy; 2017 le Noës Blanches. All Rights Reserved</p>
+					</div>		
+				</div>
+			</div>
+			
+		</footer>
+		
+		<a class="goTop goTop-link"><i class="icon-angle-up"></i></a>
+		
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+		<script src="/js/bootstrap.min.js"></script>
+		<script src="/js/waypoints.js"></script>
+    <script src="/js/plugins.js"></script>
+		<script src="/js/placeholder.js"></script>
+		<script src="/js/jquery.colorbox-min.js"></script>
+    <script src="/js/main.js"></script>
+		
+		<!--JS for filter. If you don't need the image filter don't include these files and js-code to the project-->
+		<script src="/js/jquery.imagesloaded.js"></script>
+		<script src="http://masonry.desandro.com/masonry.pkgd.min.js"></script>
+		<script>
+			$(document).ready(function () {
+			    var $container = $('.masonry');
+
+			    $container.imagesLoaded(function () {
+			        $container.masonry({
+			            itemSelector: '.post-box',
+			            columnWidth: '.post-box',
+			            transitionDuration: 0
+			        });
+			    });
+			});
+		</script>
+		
+			<script type="text/javascript">
+
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-41645882-1']);
+			  _gaq.push(['_trackPageview']);
+
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+
+			</script>
+				<!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+				0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+				for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+				mixpanel.init("8ca12273bd8abfb4a0027a6a801ae921");</script><!-- end Mixpanel -->
+    </body>
+</html>

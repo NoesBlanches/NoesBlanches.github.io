@@ -1,0 +1,679 @@
+2015-07-14 14:19:38: Using S3 host s3-eu-west-1.amazonaws.com
+2015-07-14 14:19:41: -- Analysis Started by User
+2015-07-14 14:19:41: L: State file does not exist: /Users/paul/Dropbox/PaulStuff/griny-template3/onepage/_gsdata_/_file_state_v4._gs
+2015-07-14 14:19:43: R: State file does not exist: s3://s3.amazonaws.com/www.noesblanches.com/_gsdata_/_file_state_v4._gs
+2015-07-14 14:19:45: /assets/logo_nb2.png: Conflict: New files that differ
+2015-07-14 14:19:45: /assets/logo_nb2_fr.png: Conflict: New files that differ
+2015-07-14 14:19:45: /backgroundsize.min.htc: Conflict: New files that differ
+2015-07-14 14:19:45: /chateau_mariage_le_mans: Conflict: New files that differ
+2015-07-14 14:19:45: /css/bootstrap-responsive.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/bootstrap-responsive.min.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/bootstrap.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/bootstrap.min.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/bootstrap2.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/bootstrap2.min.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/colorbox.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/filter.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/font-awesome-ie7.min.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/font-awesome.min.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/img/bg-overlay.png: Conflict: New files that differ
+2015-07-14 14:19:45: /css/img/browser-header.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /css/img/controls.png: Conflict: New files that differ
+2015-07-14 14:19:45: /css/img/glyphicons-halflings-white.png: Conflict: New files that differ
+2015-07-14 14:19:45: /css/img/glyphicons-halflings.png: Conflict: New files that differ
+2015-07-14 14:19:45: /css/img/ie-black-bg.png: Conflict: New files that differ
+2015-07-14 14:19:45: /css/img/loading.gif: Conflict: New files that differ
+2015-07-14 14:19:45: /css/main.css: Conflict: New files that differ
+2015-07-14 14:19:45: /css/main2.css: Conflict: New files that differ
+2015-07-14 14:19:45: /en/backgroundsize.min.htc: Conflict: New files that differ
+2015-07-14 14:19:45: /font/fontawesome-webfont.eot: Conflict: New files that differ
+2015-07-14 14:19:45: /font/fontawesome-webfont.svg: Conflict: New files that differ
+2015-07-14 14:19:45: /font/fontawesome-webfont.ttf: Conflict: New files that differ
+2015-07-14 14:19:45: /font/fontawesome-webfont.woff: Conflict: New files that differ
+2015-07-14 14:19:45: /font/FontAwesome.otf: Conflict: New files that differ
+2015-07-14 14:19:45: /images/bg6.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/bg8.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/duo1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/duo1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/duo1sq.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/duo2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/duo2_pan.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/duo2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/duo2sq.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/favicon.ico: Conflict: New files that differ
+2015-07-14 14:19:45: /images/garden1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/garden1_pan.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/garden1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/garden2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/garden2_pan.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/garden2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/gardenroom1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/gardenroom1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/gardenroom2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/gardenroom2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/house1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/house1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/house1sq.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/image_1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/image_2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/image_3.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/image_4.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/image_6.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/image_7.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/kitchen1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/kitchen1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/kitchen2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/kitchen2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/logo_nb2.png: Conflict: New files that differ
+2015-07-14 14:19:45: /images/logo_nb2_fr.png: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_24h.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_24hbath.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_24hbaths.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_24hs.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_blanchebath.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_blanchebath2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_blanchebath2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_blanchebaths.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_blanchereverse.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_blanchereverses.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_boudoir.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_boudoirs.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_caterer.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_caterers.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_chairview.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_chairviews.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_champagne.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_chef.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_chef.png: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_colonial.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_colonials.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_corsaire.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_corsaire2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_corsaire2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_corsaires.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_event_organiser.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_floor.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_floors.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_flower.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_fountain.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_fountains.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g10.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g10s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g11.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g11s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g12.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g12s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g13.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g13s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g14.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g14s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g3.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g3s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g4.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g4s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g5.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g5s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g6.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g6s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g7.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g7s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g8.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g8s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g9.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_g9s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_garden.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_gardens.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_gettingready.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_glass.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_green.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_greens.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h3.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h3s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h4.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h4s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h5.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h5b.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h5bs.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h5bsx.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h5bx.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h5s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h6.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h6s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h7.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h7s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h8.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h8s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h9.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_h9s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_helicopter.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_hotel.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_hotels.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_house.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_kitchen.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_kitchen1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_kitchen1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_kitchens.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_lemans.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_linens.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_map.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_marocbath.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_marocbaths.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_moroccain.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_moroccains.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_outview.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_outviews.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_pagoda.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_pagodas.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_parquet.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_piano.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_pianos.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_picnic.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_picnics.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_sonos.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_sonoss.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_stairs1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_stairs1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_stairs2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_stairs2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_stairs3.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_stairs3s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_table.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_tables.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_tent.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_tentroof.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_tentroofs.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_tick.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_tick.png: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_topbath.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_topbaths.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_w1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_w1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_w2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_w2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_w3.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_w3s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding10.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding10s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding11.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding11s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding12.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding12s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding14.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding14s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding3.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding3s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding4.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding4s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding5.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding5s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding6.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding6s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding7.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding7s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding8.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding8s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding9.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_wedding9s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_white.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_whiteb.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_whiteb2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_whiteb2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_whiteb3.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_whiteb3s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_whitebath.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_whitebaths.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_whitebs.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_whites.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_windowframe.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_windowframes.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_yard.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_yards.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_yellow.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nb_yellows.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nbhouse1_s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nbhouse2_s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nbhouse3_s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nbhouse4_s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nbhouse5_s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nbhouse6_s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nblogo.png: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nblogo_header_inverse.png: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nblogo_inverse.acorn: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nblogo_inverse.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nblogo_inverse.png: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nbracing_test.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nbstays_test.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nbwedding_1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/nbwedding_test.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/parking1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/parking1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/pond1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/pond1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/pond2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/pond2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/pool1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/pool1_s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/pool2_sq.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/screen.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/team2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/team3.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/tent1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/tent1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/tent2.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/tent2s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/tentlights1.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/tentlights1s.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /images/tentlights1sq.jpg: Conflict: New files that differ
+2015-07-14 14:19:45: /js/bootstrap.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/bootstrap.min.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/jquery.colorbox-min.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/jquery.imagesloaded.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/jquery.viewport.min.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/jquery.wookmark.min.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/main.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/main2.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/masonry.pkgd.min.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/placeholder.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/plugins.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/respond.min.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/vendor/jquery-1.10.2.min.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/vendor/modernizr-2.6.2.min.js: Conflict: New files that differ
+2015-07-14 14:19:45: /js/waypoints.js: Conflict: New files that differ
+2015-07-14 14:19:45: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2015-07-14 14:19:45: Changes: 347, Conflicts: 290, CopyTime: 0, CopyState: 0/8, Errors: 0, All: 369
+2015-07-14 14:19:45: Left to Right: Copy File: 30 
+2015-07-14 14:19:45: Right to Left: Copy File: 27 
+2015-07-14 14:19:45: -- Analysis Complete. Time 00:00:08, Speed: 46 files/s
+2015-07-14 14:19:45: 
+2015-07-14 14:27:50: Using S3 host s3-eu-west-1.amazonaws.com
+2015-07-14 14:27:51: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2015-07-14 14:27:51: == Sync Started by User
+2015-07-14 14:27:52: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/assets/Icon
+' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/assets/Icon
+'
+- ERROR: Error copying file: Not Found by server
+2015-07-14 14:27:52: /assets/logo_nb2.png: unresolved conflict results in No Copy
+2015-07-14 14:27:52: /assets/logo_nb2_fr.png: unresolved conflict results in No Copy
+2015-07-14 14:27:52: /backgroundsize.min.htc: unresolved conflict results in No Copy
+2015-07-14 14:27:52: /chateau_mariage_le_mans: unresolved conflict results in No Copy
+2015-07-14 14:27:53: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/chateau_mariage_paris' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/chateau_mariage_paris'
+2015-07-14 14:27:54: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/chateau_mariage_paris.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/chateau_mariage_paris.html'
+2015-07-14 14:27:54: /css/bootstrap-responsive.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/bootstrap-responsive.min.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/bootstrap.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/bootstrap.min.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/bootstrap2.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/bootstrap2.min.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/colorbox.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/filter.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/font-awesome-ie7.min.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/font-awesome.min.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/css/Icon
+' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/css/Icon
+'
+- ERROR: Error copying file: Not Found by server
+2015-07-14 14:27:54: /css/img/bg-overlay.png: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/img/browser-header.jpg: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/img/controls.png: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/img/glyphicons-halflings-white.png: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/img/glyphicons-halflings.png: unresolved conflict results in No Copy
+2015-07-14 14:27:54: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/css/img/Icon
+' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/css/img/Icon
+'
+- ERROR: Error copying file: Not Found by server
+2015-07-14 14:27:54: /css/img/ie-black-bg.png: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/img/loading.gif: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/main.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /css/main2.css: unresolved conflict results in No Copy
+2015-07-14 14:27:54: /en/backgroundsize.min.htc: unresolved conflict results in No Copy
+2015-07-14 14:27:54: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/en/french_chateau_wedding' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/french_chateau_wedding'
+2015-07-14 14:27:55: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/french_chateau_wedding.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/en/french_chateau_wedding.html'
+2015-07-14 14:27:56: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/en/french_wedding' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/french_wedding'
+2015-07-14 14:27:56: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/french_wedding.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/en/french_wedding.html'
+2015-07-14 14:27:56: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/en/gardens' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/gardens'
+2015-07-14 14:27:59: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/gardens.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/en/gardens.html'
+2015-07-14 14:27:59: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/en/Icon
+' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/Icon
+'
+- ERROR: Error copying file: Not Found by server
+2015-07-14 14:28:00: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/en/index' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/index'
+2015-07-14 14:28:01: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/index.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/en/index.html'
+2015-07-14 14:28:01: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/en/index2' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/index2'
+2015-07-14 14:28:02: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/index2.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/en/index2.html'
+2015-07-14 14:28:02: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/en/lemans-24h' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/lemans-24h'
+2015-07-14 14:28:03: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/lemans-24h.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/en/lemans-24h.html'
+2015-07-14 14:28:03: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/en/shortcodes' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/shortcodes'
+2015-07-14 14:28:05: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/shortcodes.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/en/shortcodes.html'
+2015-07-14 14:28:05: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/en/test' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/test'
+2015-07-14 14:28:05: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en/test.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/en/test.html'
+2015-07-14 14:28:06: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/en.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/en.html'
+2015-07-14 14:28:06: /font/fontawesome-webfont.eot: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /font/fontawesome-webfont.svg: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /font/fontawesome-webfont.ttf: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /font/fontawesome-webfont.woff: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /font/FontAwesome.otf: unresolved conflict results in No Copy
+2015-07-14 14:28:06: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/font/Icon
+' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/font/Icon
+'
+- ERROR: Error copying file: Not Found by server
+2015-07-14 14:28:06: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/Icon
+' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/Icon
+'
+- ERROR: Error copying file: Not Found by server
+2015-07-14 14:28:06: /images/bg6.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /images/bg8.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /images/duo1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /images/duo1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /images/duo1sq.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /images/duo2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /images/duo2_pan.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /images/duo2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /images/duo2sq.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:06: /images/favicon.ico: unresolved conflict results in No Copy
+2015-07-14 14:28:14: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/firebowl.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/firebowl.jpg'
+2015-07-14 14:28:14: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/firebowls.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/firebowls.jpg'
+2015-07-14 14:28:14: /images/garden1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/garden1_pan.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/garden1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/garden2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/garden2_pan.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/garden2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/gardenroom1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/gardenroom1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/gardenroom2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/gardenroom2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/house1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/house1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/house1sq.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/images/Icon
+' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/Icon
+'
+- ERROR: Error copying file: Not Found by server
+2015-07-14 14:28:14: /images/image_1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/image_2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/image_3.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/image_4.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/image_6.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/image_7.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/kitchen1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/kitchen1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/kitchen2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:14: /images/kitchen2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/la_cour1.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/la_cour1.jpg'
+2015-07-14 14:28:17: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/la_cour1s.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/la_cour1s.jpg'
+2015-07-14 14:28:17: /images/logo_nb2.png: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/logo_nb2_fr.png: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_24h.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_24hbath.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_24hbaths.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_24hs.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_blanchebath.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_blanchebath2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_blanchebath2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_blanchebaths.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_blanchereverse.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_blanchereverses.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_boudoir.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_boudoirs.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_caterer.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_caterers.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_chairview.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_chairviews.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_champagne.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_chef.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_chef.png: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_colonial.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_colonials.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_corsaire.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_corsaire2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_corsaire2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_corsaires.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_event_organiser.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_floor.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_floors.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_flower.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_fountain.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_fountains.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g10.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g10s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g11.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g11s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g12.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g12s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g13.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g13s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g14.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g14s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g3.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g3s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g4.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g4s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g5.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g5s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g6.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g6s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g7.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g7s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g8.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g8s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g9.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_g9s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_garden.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_gardens.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_gettingready.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_glass.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_green.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_greens.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h3.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h3s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h4.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h4s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h5.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h5b.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h5bs.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h5bsx.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h5bx.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h5s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h6.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h6s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h7.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h7s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h8.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h8s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h9.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_h9s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_helicopter.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_hotel.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_hotels.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_house.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_kitchen.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_kitchen1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_kitchen1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_kitchens.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:17: /images/nb_lemans.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/nb_linen.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/nb_linen.jpg'
+2015-07-14 14:28:19: /images/nb_linens.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_map.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_marocbath.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_marocbaths.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_moroccain.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_moroccains.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_outview.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_outviews.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_pagoda.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_pagodas.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_parquet.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_piano.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_pianos.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_picnic.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_picnics.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_sonos.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_sonoss.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_stairs1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_stairs1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_stairs2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_stairs2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_stairs3.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_stairs3s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_table.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_tables.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_tent.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_tentroof.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_tentroofs.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_tick.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_tick.png: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_topbath.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_topbaths.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_w1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_w1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_w2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_w2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_w3.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_w3s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding10.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding10s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding11.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding11s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding12.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding12s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding14.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding14s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding3.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding3s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding4.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding4s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding5.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding5s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding6.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding6s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding7.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding7s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding8.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding8s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding9.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_wedding9s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_white.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_whiteb.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_whiteb2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_whiteb2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_whiteb3.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_whiteb3s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_whitebath.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_whitebaths.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_whitebs.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_whites.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_windowframe.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_windowframes.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_yard.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_yards.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_yellow.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nb_yellows.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nbhouse1_s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nbhouse2_s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nbhouse3_s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nbhouse4_s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nbhouse5_s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nbhouse6_s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nblogo.png: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nblogo_header_inverse.png: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nblogo_inverse.acorn: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nblogo_inverse.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nblogo_inverse.png: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nbracing_test.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nbstays_test.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nbwedding_1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/nbwedding_test.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/parking1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/parking1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/pond1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/pond1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/pond2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/pond2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/pool1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:19: /images/pool1_s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:26: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/pool2.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/pool2.jpg'
+2015-07-14 14:28:26: /images/pool2_sq.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:26: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/pool2s.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/pool2s.jpg'
+2015-07-14 14:28:29: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/pool3.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/pool3.jpg'
+2015-07-14 14:28:30: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/pool3s.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/pool3s.jpg'
+2015-07-14 14:28:30: /images/screen.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:30: /images/team2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:30: /images/team3.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:33: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/tennis1.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/tennis1.jpg'
+2015-07-14 14:28:33: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/images/tennis1s.jpg' -> 's3://s3.amazonaws.com/www.noesblanches.com/images/tennis1s.jpg'
+2015-07-14 14:28:33: /images/tent1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:33: /images/tent1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:33: /images/tent2.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:33: /images/tent2s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:33: /images/tentlights1.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:33: /images/tentlights1s.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:33: /images/tentlights1sq.jpg: unresolved conflict results in No Copy
+2015-07-14 14:28:33: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/index' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/index'
+2015-07-14 14:28:34: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/index.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/index.html'
+2015-07-14 14:28:34: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/jardins' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/jardins'
+2015-07-14 14:28:34: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/jardins.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/jardins.html'
+2015-07-14 14:28:34: /js/bootstrap.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: /js/bootstrap.min.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/js/Icon
+' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/js/Icon
+'
+- ERROR: Error copying file: Not Found by server
+2015-07-14 14:28:34: /js/jquery.colorbox-min.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: /js/jquery.imagesloaded.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: /js/jquery.viewport.min.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: /js/jquery.wookmark.min.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: /js/main.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: /js/main2.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: /js/masonry.pkgd.min.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: /js/placeholder.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: /js/plugins.js: unresolved conflict results in No Copy
+2015-07-14 14:28:34: /js/respond.min.js: unresolved conflict results in No Copy
+2015-07-14 14:28:35: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/js/vendor/Icon
+' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/js/vendor/Icon
+'
+- ERROR: Error copying file: Not Found by server
+2015-07-14 14:28:35: /js/vendor/jquery-1.10.2.min.js: unresolved conflict results in No Copy
+2015-07-14 14:28:35: /js/vendor/modernizr-2.6.2.min.js: unresolved conflict results in No Copy
+2015-07-14 14:28:35: /js/waypoints.js: unresolved conflict results in No Copy
+2015-07-14 14:28:35: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/liens' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/liens'
+2015-07-14 14:28:35: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/liens.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/liens.html'
+2015-07-14 14:28:35: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/mariage_chateau_le_mans' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/mariage_chateau_le_mans'
+2015-07-14 14:28:35: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/mariage_chateau_le_mans.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/mariage_chateau_le_mans.html'
+2015-07-14 14:28:35: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/mariages' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/mariages'
+2015-07-14 14:28:36: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/mariages.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/mariages.html'
+2015-07-14 14:28:36: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/mariages2' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/mariages2'
+2015-07-14 14:28:36: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/mariages2.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/mariages2.html'
+2015-07-14 14:28:36: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/shortcodes' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/shortcodes'
+2015-07-14 14:28:37: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/shortcodes.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/shortcodes.html'
+2015-07-14 14:28:37: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/terms' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/terms'
+2015-07-14 14:28:37: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/terms.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/terms.html'
+2015-07-14 14:28:37: Copy New 's3://s3.amazonaws.com/www.noesblanches.com/test' -> '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/test'
+2015-07-14 14:28:38: Copy New '/Users/paul/Dropbox/PaulStuff/griny-template3/onepage/test.html' -> 's3://s3.amazonaws.com/www.noesblanches.com/test.html'
+2015-07-14 14:28:39: == Sync Complete. Time: 00:00:50, Speed: 34.2 KB/s, OK: 56, Errors: 9, Conflicts: 290
+2015-07-14 14:28:39: 

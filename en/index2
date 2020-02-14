@@ -1,0 +1,285 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>le Mans 24hr Chateau Rental</title>
+	<meta charset="utf-8">
+    <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
+    <meta name="description" content="Your description">
+    <meta name="keywords" content="Your keywords">
+    <meta name="author" content="Your name">
+    <link rel="stylesheet" href="/assets/bootstrap.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/assets/responsive.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/assets/style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/assets/flexslider.css" type="text/css" media="screen"> 
+	<link href="/assets/fontawesome.css" media="all" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/assets/jquery.js"></script>
+    <script type="text/javascript" src="/assets/jquery-migrate.js"></script>
+    <script type="text/javascript" src="/assets/superfish.js"></script>
+    <script type='text/javascript' src='/assets/jquery.flexslider.js'></script>
+    <script type="text/javascript" src="/assets/jquery.mobilemenu.js"></script>    
+    <script type="text/javascript" src="/assets/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="/assets/jquery.ui.totop.js"></script>
+    <script src="/assets/forms.js"></script>
+    <script>
+    $(window).load(function() {							
+	$('#flexslider').flexslider({
+	animation: "fade",			
+	slideshow: true,			
+	slideshowSpeed: 7000,
+	animationDuration: 600,				
+	prevText: "",
+	nextText: "",
+	controlNav: false					
+		})							
+	})
+    </script>
+
+    <!--[if lt IE 8]>
+  		<div style='text-align:center'><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/assets/upgrade.jpg"border="0"alt=""/></a></div>  
+ 	<![endif]-->
+    <!--[if (gt IE 9)|!(IE)]><!-->
+
+    <!--<![endif]-->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>   
+    <link rel="stylesheet" href="/assets/ie.css" type="text/css" media="screen">
+  <![endif]-->
+    
+				<!-- Facebook Pixel Code -->
+				<script>
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+				n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+				document,'script','https://connect.facebook.net/en_US/fbevents.js');
+				fbq('init', '1026889567350955'); // Insert your pixel ID here.
+				fbq('track', 'PageView');
+				</script>
+				<noscript><img height="1" width="1" style="display:none"
+				src="https://www.facebook.com/tr?id=1026889567350955&ev=PageView&noscript=1"
+				/></noscript>
+				<!-- DO NOT MODIFY -->
+				<!-- End Facebook Pixel Code -->
+				
+    </head>
+
+    <body>
+	
+<div class="main-glow">
+      <div class="main-block">
+    <header> 
+
+    <!--============================== header =================================-->
+    
+  <div class="navbar navbar_ clearfix ">
+  <div class="nav-collapse nav-collapse_  collapse">
+        <ul class="nav sf-menu">
+      <li ><a href="/en">Main</a></li>
+      <li ><a href="/en/the_house">The House</a>
+                        <!-- <ul>
+                      <li><a href="#">The Living Areas</a>
+                         <ul>
+                          <li><a href="/kitchen">Kitchen</a></li>
+                          <li><a href="/reception">Reception Room</a></li>
+                          <li><a href="/dining">Dining Room</a></li>
+                          <li><a href="/living">Living Room</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="#">The Bedrooms</a>
+                         <ul>
+                          <li><a href="/white">White</a></li>
+                          <li><a href="/maroc">Maroc</a></li>
+                          <li><a href="/colonial">Colonial</a></li>
+                          <li><a href="/green">Green</a></li>
+                          <li><a href="/corsair">Corsair</a></li>
+                          <li><a href="/jardin">Jardin</a></li>
+                          <li><a href="/boudoir">Boudoir</a></li>
+                          <li><a href="/grand_prix">Grand Prix</a></li>
+                          <li><a href="/dormitory">Dormitory</a></li>
+                        </ul>
+                      </li>
+  					<li><a href="#">The Bathrooms</a>
+                         <ul>
+                          <li><a href="/green_bathroom">Green</a></li>
+                          <li><a href="/blue_bathroom">Blue</a></li>
+                          <li><a href="/tower_bathroom">Tower</a></li>
+                          <li><a href="/racing_bathroom">Racing</a></li>
+  						<li><a href="/east_bathroom">East</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="/grounds">The Gounds</a></li>
+  					<li><a href="/rates">Rates</a></li>
+  
+                    </ul>
+                      </li> -->
+      
+  	<li ><a href="/en/french_chateau_wedding">French Wedding</a>
+  	<li class="active"><a href="/en/lemans-24h">Motor Sports</a>
+  	<!-- <li ><a href="private-hire">Private Hire</a> -->
+      <li ><a href="/en/contacts">Contact</a></li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+  <h1 class="brand"><a href="/en"><img alt="verona" src="/assets/logo_nb2.png"></a></h1>
+  </div>
+  <div class="pull-right" style="margin-right:20px;margin-top:0px;color:#999;"><strong style="cursor:pointer;">english</strong> / <a href="/" style="color:#999;">français</a></div>
+</header>
+
+    
+    <!--============================== slider =================================-->
+    
+<!--     <div id="slider">
+      <div id="flexslider">
+        <ul class="slides clearfix">
+	              <li> <img alt="" src="/assets/a/home1.jpg"> </li>
+              <li> <img alt="" src="/assets/lemans-1.jpg"> </li>
+			  <li> <img alt="" src="/assets/a/maroc1.jpg"> </li>
+              <li> <img alt="" src="/assets/lemans-3.jpg"> </li>
+			  <li> <img alt="" src="/assets/a/home4.jpg"> </li>
+                            <li> <img alt="" src="/assets/slide_6.jpg"> </li>
+              			  <li> <img alt="" src="/assets/slide_1.jpg"> </li>
+              <li> <img alt="" src="/assets/slide_5.jpg"> </li>
+                            <li> <img alt="" src="/assets/slide_3.jpg"> </li>
+            </ul>
+      </div>
+    </div> -->
+
+
+
+
+
+		<!--============================== slider =================================-->
+    
+    <div id="slider">
+       <div id="flexslider">
+        <ul class="slides clearfix">
+			  <li> <img alt="" src="/assets/lemans-1.jpg"> </li>
+				<li> <img alt="" src="/assets/lemans-3.jpg"> </li>
+			  <li> <img alt="" src="/assets/a_house.jpg"> </li>
+        </ul>
+      </div>
+    </div>
+
+
+		<!--============================== content =================================-->
+    
+    <div id="content">
+      <div class="container">
+        <div class="row">
+					
+					<article class="span8 offset2">
+						<h3>Race Week at Les Noës Blanches</h3>
+            <div class="clearfix">
+              <figure class="img-indent extra"><img src="/assets/a_track.jpg " alt="" style="" /><br><br><br></figure>
+              <p class="txt-1">A place to relax, a place to entertain.</p>
+              <p>If you are planning a le Mans race week it is likely you are either coming as part of a competing team, or as part of an organisation that needs to show some people a good time.
+	</p>				
+							<p>At les Noes Blanches, we have the house, the <a href="/en/contacts#map_circuit" target="_new" style="color:#725958;text-decoration:underline;">proximity to the circuit</a> and the grounds to be able to run the race week exactly the way you want it.
+	</p>
+            </div>
+						
+            <h3>The Essentials - what is included</h3>
+            <ul class="list-service">
+              <li>
+								<figure><img  src="/assets/a_house_s.jpg" style="width:150px;" alt=""></figure>
+                <div class="overflow"> <a>A Chateau & Some Beautiful Grounds</a>
+                  <p>Your base for the race week, the chateau has 9 bedrooms and can accomodate 15 people. With 12 acres of grounds set in 450 acres of woodland - we also have an optional 170m<sup>2</sup> marquee setup to accomodate many more guests for entertaining and events.
+									</p>
+                </div>
+              </li><br>
+              <li>
+								<figure><img  src="/assets/a_helper.jpg" style="width:150px;" alt=""></figure>
+                <div class="overflow"> <a>An In-house Organiser</a>
+                  <p>Need to organise transportation back from the circuit, get a dinner sorted after coming back late or a babysitter for a few hours? It helps to have someone local on the ground who speaks english and who knows their way around. Included in the race week package is access to someone who can help plan your stay and handle any last-minute requests the house guests may have as and when they come.</p>
+                </div>
+              </li>
+            </ul>
+						<hr  style="border-color:#725958;">
+						<h3 >The Dates</h3>
+						The standard package runs from Tuesday before the race to the Monday after and accomodates up to 15 people in 9 bedrooms. Naturally if you require the dates shifted or extended we will do our utmost to accomodate you. The house is provided with a cleaner who will remake the rooms and tidy the premises each day, but is otherwise self-catering. Extra services (such as in-house cook, babysitter etc) can be organised at the time of booking or through your organiser nearer the time.
+						<h4>French Moto GP ~ 13-19 May 2014<a onclick="mixpanel.track('Email click');" href="mailto:bonjour@noesblanches.com?subject=Noës Blanches Moto GP race week Enquiry" class="btn btn-3 mar-btn pull-right">enquire</a></h4><br>
+						<h4>Le Mans 24 hours: 10-16 June 2014 --- <strong>BOOKED</strong></h4><br>
+						<h4>Le Mans Classic: 1-7 July 2014 --- <strong>BOOKED</strong></h4><br>
+						<h4>Le Mans Moto 24 hours: 16-22 Sep 2014<a onclick="mixpanel.track('Email click');" href="mailto:bonjour@noesblanches.com?subject=Noës Blanches Moto 24h race week Enquiry" class="btn btn-3 mar-btn pull-right">enquire</a></h4><br>
+						<hr  style="border-color:#725958;">
+						<h3>The Optional Extras</h3>
+						<ul class="list-service">
+              <li>
+								<figure><img  src="/assets/a_cook.jpg" style="width:150px;" alt=""></figure>
+                <div class="overflow"> <a>An In-house Chef</a>
+                  <p>Whether it's early starts and late finishes, or down-time relaxing with friends and colleagues - it's likely you'll want someone to look after the shopping and the cooking some of the time. Our in-house chef can work to your schedule and help organise everything from a barbeque to a sumptuous multi-course dinner.
+									</p>
+                </div>
+              </li>
+							<li>
+								<figure><img  src="/assets/a_event.jpg" style="width:150px;" alt=""></figure>
+                <div class="overflow"> <a>An Event Organiser</a>
+                  <p>You've got this great space, maybe you should show it off? Whether organising an informal barbecue and a big screen to watch a world-cup match, or a fully-catered dinner for over 100 guests, you can book our english-speaking event organiser who can source what you'll need and when you'll need it.
+									</p>
+                </div>
+              </li>
+							<li>
+								<figure><img  src="/assets/a_tent_view_s.jpg" style="width:150px;" alt=""></figure>
+                <div class="overflow"> <a>An Event Marquee</a>
+                  <p>You have the option of making use of our 170m<sup>2</sup> pagoda-style marquee to accomodate events, dinners and parties. Please ask for more info.
+									</p>
+                </div>
+              </li>
+							<li>
+								<figure><img  src="/assets/a_chopper.jpg" style="width:150px;" alt=""></figure>
+                <div class="overflow"> <a>Helicopter Landing</a>
+                  <p>If you can, then you should. The in-house organiser will put in the necessary calls to get landing clearance to arrive on the Chateau grounds in style.
+									</p>
+                </div>
+              </li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </div>
+
+
+
+
+	<!--============================== content =================================-->
+	
+	
+
+    
+	<!--============================== footer =================================-->
+    <footer>
+        <div class="container clearfix">
+        <div class="list-soc">
+         <a href="https://twitter.com/LesNoesBlanches"><img alt="" src="/assets/soc-icon1.gif"></a> 
+         <a href="https://www.facebook.com/pages/Les-Noës-Blanches/411823692169562"><img alt="" src="/assets/soc-icon2.gif"></a>
+<!--
+          <a href="#"><img alt="" src="/assets/soc-icon3.gif"></a> 
+          <a href="#"><img alt="" src="/assets/soc-icon4.gif"></a>
+-->
+           </div>
+        <div class="privacy">noës blanches &copy; 2014 &nbsp;<span>|</span>&nbsp; <a href="terms">privacy policy</a>&nbsp;<span>|</span>&nbsp; <a href="/">site français</a>&nbsp; 
+        <!-- {%FOOTER_LINK} --></div>
+      </div>
+     </footer>
+  </div>
+    </div>
+<script type="text/javascript" src="/assets/bootstrap.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-41645882-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</body>
+</html>
