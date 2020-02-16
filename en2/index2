@@ -37,13 +37,13 @@
     </script>
 
     <!--[if lt IE 8]>
-  		<div style='text-align:center'><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/assets/upgrade.jpg"border="0"alt=""/></a></div>  
+  		<div style='text-align:center'><a href="https://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="https://www.theie6countdown.com/assets/upgrade.jpg"border="0"alt=""/></a></div>  
  	<![endif]-->
     <!--[if (gt IE 9)|!(IE)]><!-->
 
     <!--<![endif]-->
     <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>   
+    <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>   
     <link rel="stylesheet" href="/assets/ie.css" type="text/css" media="screen">
   <![endif]-->
     
@@ -274,7 +274,7 @@
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
